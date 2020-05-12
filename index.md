@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Word Monkey Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/JDGarner/wordmonkeyprivacypolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**No Personal Information Is Collected By This Application**
+Word Monkey does not collect, use, save, or have access to any of your personal data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Individual settings relating to the Word Monkey app are not personal and are stored only on your device. Word Monkey stores the users score on the device and submits it to the Apple Game Center leaderboards. Word Monkey records whether the user answered a question correctly or incorrectly and sends this information to our servers in order to update the question difficulty.
 
-### Markdown
+This application complies with the Children’s Online Privacy Protection Act.
+This application does not collect personal information from anyone, including children under the age of 13.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JDGarner/wordmonkeyprivacypolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Contact Us**
+If you have any questions about this Privacy Policy, feel free to get in touch with at jamiegarner123@gmail.com
